@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\SYLE2\SYBlogDB\bin\Debug\SYBlogDB.dacpac
+C:\Users\PC\source\repos\SYLE2\SYBlogDB\bin\Debug\SYBlogDB.dll
+C:\Users\PC\source\repos\SYLE2\SYBlogDB\bin\Debug\SYBlogDB.pdb
+C:\Users\PC\source\repos\SYLE2\SYBlogDB\obj\Debug\SYBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\PC\source\repos\SYLE2\SYBlogDB\obj\Debug\SYBlogDB.dll
+C:\Users\PC\source\repos\SYLE2\SYBlogDB\obj\Debug\SYBlogDB.pdb
+C:\Users\PC\source\repos\SYLE4\SYBlogDB\bin\Debug\SYBlogDB.dacpac
+C:\Users\PC\source\repos\SYLE4\SYBlogDB\bin\Debug\SYBlogDB.dll
+C:\Users\PC\source\repos\SYLE4\SYBlogDB\bin\Debug\SYBlogDB.pdb
+C:\Users\PC\source\repos\SYLE4\SYBlogDB\obj\Debug\SYBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\PC\source\repos\SYLE4\SYBlogDB\obj\Debug\SYBlogDB.dll
+C:\Users\PC\source\repos\SYLE4\SYBlogDB\obj\Debug\SYBlogDB.pdb
