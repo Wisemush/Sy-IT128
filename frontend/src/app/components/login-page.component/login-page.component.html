@@ -1,0 +1,28 @@
+<div>
+    <h1>Welcome Back</h1>
+    <h3>Login Here</h3>
+    <form name="form" (ngSubmit)="onSubmit()" #f="ngForm" novalidate>
+        <div>
+            <label for="username">Email</label>
+            <input
+                required
+                type="text"
+                name="username"
+                [(ngModel)]="form.username"
+                #username="ngModel">
+
+            <label for="password">Password</label>
+            <input 
+                type="password"
+                name="password"
+                [(ngModel)]="form.password"
+                required
+                #password="ngModel">
+
+            <button type="submit">Submit</button>
+        </div>  <!-- Added closing div tag here -->
+    </form>  <!-- Moved form closing tag outside -->
+    <div *ngIf="errorMessage" class="alert alert-danger">
+        {{ errorMessage }}
+    </div>
+</div>
